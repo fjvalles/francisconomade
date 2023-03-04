@@ -3,7 +3,7 @@
 @import "main";
 
 .countdown-container {
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/background/background_2_eoftih_c_scale,w_663.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -50,6 +50,7 @@
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
   .countdown-container {
+    background-image: url("../images/background/background_2_eoftih_c_scale,w_971.jpg");
     #logo-test {
       max-width: 80%;
       padding: 1em 0 .5em 0;
@@ -63,6 +64,7 @@
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
   .countdown-container {
+    background-image: url("../images/background/background_2_eoftih_c_scale,w_1219.jpg");
     #logo-test {
       max-width: 70%;
       padding: 1em 0 .5em 0;
@@ -76,6 +78,7 @@
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   .countdown-container {
+    background-image: url("../images/background/background_2_eoftih_c_scale,w_1376.jpg");
     #logo-test {
       max-width: 60%;
       padding: 1em 0 .5em 0;
@@ -89,6 +92,7 @@
 // X-Large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .countdown-container {
+    background-image: url("../images/background/background_2_eoftih_c_scale,w_1400.jpg");
     #logo-test {
       max-width: 50%;
       padding: 1em 0 .5em 0;
